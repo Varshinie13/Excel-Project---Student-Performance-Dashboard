@@ -28,8 +28,8 @@ Project Overview:
      Created Calculated Fields
 
      Dashboard:
+     <img width="960" height="540" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/74e7b95a-3072-4f11-85b0-4fef3d28b285" />
 
-     <img width="960" height="540" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/bbac8ae6-f2d1-4d3e-978b-58bea633b8f1" />
 
      
      Dashboard Features:
