@@ -3,44 +3,44 @@ Excel Data Analytics Project Comparing Student performance through data Cleaning
 
 Project Overview:
 
-     This project analyses student performance data using Microsoft Excel. The objective was to clean raw data, perform analysis, and create an interactive dashboard.
+This project analyses student performance data using Microsoft Excel. The objective was to clean raw data, perform analysis, and create an interactive dashboard.
     
-     Tools Used:
+Tools Used:
      
-     1. Microsft Excel
-     2. Pivot Tables
-     3. Data Cleaning Techniques (Power Query)
-     4. Charts and Visualization
-     5. Interactive Dashboard
+1. Microsft Excel
+2. Pivot Tables
+3. Data Cleaning Techniques (Power Query)
+4. Charts and Visualization
+5. Interactive Dashboard
      
-     Key Analysis Performed:
+Key Analysis Performed:
      
-     Analyse Study Category (High, Medium, Poor study) 
-     Based on Gender analyse Sleep hours affect results
-     Access of internet affect Final scores
-     KPI metrics ( Average, Statistics analysis)
+Analyse Study Category (High, Medium, Poor study) 
+Based on Gender analyse Sleep hours affect results
+Access of internet affect Final scores
+KPI metrics ( Average, Statistics analysis)
      
-     Data Cleaning steps:
+Data Cleaning steps:
      
-     Removed Duplicates
-     Handling missing values
-     Formatted the colums
-     Created Calculated Fields
+Removed Duplicates
+Handling missing values
+Formatted the colums
+Created Calculated Fields
 
-     Dashboard:
-     <img width="960" height="540" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/74e7b95a-3072-4f11-85b0-4fef3d28b285" />
+Dashboard:
+
+<img width="960" height="540" alt="Student Performance Dashboard" src="https://github.com/user-attachments/assets/e5a38e1a-cd82-45a8-a7a9-8627f6065909" />
 
 
+Dashboard Features:
      
-     Dashboard Features:
+Interactive Filters
+Performance comparison charts
+Clean visual Layout
      
-     Interactive Filters
-     Performance comparison charts
-     Clean visual Layout
+Project Outcome:
      
-     Project Outcome:
-     
-     This Dashboard helps to identify performance trends and supports academic decison-making.
+This Dashboard helps to identify performance trends and supports academic decison-making.
 
 
 
